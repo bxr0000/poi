@@ -9,5 +9,7 @@ public class PoiApplication {
     public static void main(String[] args) {
         SpringApplication.run(PoiApplication.class, args);
         System.out.println();
+        System.out.println("this is a good boy");
+        
     }
 }
